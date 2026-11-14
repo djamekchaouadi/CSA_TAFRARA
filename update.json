@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.4.0",
+  "versionCode": 5,
+  "versionName": "1.5.0",
   "apkUrl": "https://github.com/djamekchaouadi/CSA_TAFRARA/releases/download/v1.2.0/update.apk",
-  "releaseNotes": "Amélioration et correction des bugs."
+  "releaseNotes": "Amélioration et le rajout de nouvelle fonctionalité 'COTISATION'."
 }
