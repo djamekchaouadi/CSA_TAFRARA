@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.5.0",
+  "versionCode": 6,
+  "versionName": "1.6.0",
   "apkUrl": "https://github.com/djamekchaouadi/CSA_TAFRARA/releases/download/v1.2.0/update.apk",
-  "releaseNotes": "Amélioration et le rajout de nouvelle fonctionalité 'COTISATION'."
+ "releaseNotes": "• Ajout du module 'SYSTÈME D'ARBITRAGE' (Français / عربي) accessible à tous.\n• Côté Technique : Intégration du barème officiel de notation et des pénalités pour toutes les spécialités.\n• Côté Combat  : Le règlement relatif au combat sera ajouté prochainement."
 }
