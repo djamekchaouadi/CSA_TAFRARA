@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.7.0",
+  "versionCode": 8,
+  "versionName": "1.8.0",
   "apkUrl": "https://github.com/djamekchaouadi/CSA_TAFRARA/releases/download/v1.2.0/update.apk",
-"releaseNotes": "• Mise à jour du module 'SÉANCE D'ENTRAÎNEMENT' : Ajout du pointage intelligent des présents et des retardataires avec heure d'entrée automatique.\n• Côté Organisation : Séparation intelligente des séances par groupe (Groupe 1 & Groupe 2) et synchronisation automatique des retards sur la même journée.\n• Côté Rapports & Stats : Intégration de la liste des retardataires (en orange) dans les fichiers PDF et mise à jour du compteur des retards dans les statistiques."
+"releaseNotes": "• Mise à jour du module 'COMPÉTITIONS' : Nouvelle présentation plus claire et agréable pour consulter et modifier vos compétitions, avec la possibilité d'annuler facilement une suppression.\n• Côté Organisation : Classement automatique des épreuves par catégorie d'âge, gestion simplifiée des épreuves collectives (comme le Song Luyen) et possibilité d'inscrire plusieurs équipes dans une même épreuve.\n• Côté Rapports PDF : Nouveau document officiel prêt à partager avec les athlètes et les parents avant la compétition, affichant le programme de chaque athlète par catégorie ainsi que le détail des épreuves et des équipes."
 }
